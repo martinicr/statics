@@ -100,7 +100,7 @@
           "d6949b98-b305-43dc-a291-4c6cff67f88e"
         ]
       },
-      "projectAgentTemplateMetadata": [
+      "projectAgentTemplateMetadata": {
         "templateAppIds": [
           "5ebb964d-4dd7-4ea6-acd5-a5f310390c5b,
           4ebb964e-4dd7-2ea6-3cd5-a5f310390c5b"
